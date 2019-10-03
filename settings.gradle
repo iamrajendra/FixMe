@@ -1,0 +1,2 @@
+include ':app', ':codenamefixme'
+rootProject.name='FixMe'
